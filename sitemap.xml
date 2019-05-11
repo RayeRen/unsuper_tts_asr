@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://rayeren.github.io/categories/asr/</loc>
+    <loc>https://rayeren.github.io/unsuper_tts_asr/categories/asr/</loc>
     <lastmod>2019-05-10T15:30:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rayeren.github.io/</loc>
+    <loc>https://rayeren.github.io/unsuper_tts_asr/</loc>
     <lastmod>2019-05-10T15:30:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rayeren.github.io/index.html</loc>
+    <loc>https://rayeren.github.io/unsuper_tts_asr/index.html</loc>
     <lastmod>2019-05-10T15:30:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rayeren.github.io/categories/</loc>
-    <lastmod>2019-05-10T15:30:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://rayeren.github.io/tags/speech/</loc>
+    <loc>https://rayeren.github.io/unsuper_tts_asr/categories/</loc>
     <lastmod>2019-05-10T15:30:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rayeren.github.io/categories/speech-synthesis/</loc>
+    <loc>https://rayeren.github.io/unsuper_tts_asr/tags/speech/</loc>
     <lastmod>2019-05-10T15:30:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rayeren.github.io/tags/</loc>
+    <loc>https://rayeren.github.io/unsuper_tts_asr/categories/speech-synthesis/</loc>
+    <lastmod>2019-05-10T15:30:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rayeren.github.io/unsuper_tts_asr/tags/</loc>
     <lastmod>2019-05-10T15:30:00+09:00</lastmod>
     <priority>0</priority>
   </url>
