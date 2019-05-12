@@ -11,12 +11,6 @@
   <url>
     <loc>https://speechresearch.github.io/</loc>
     <lastmod>2019-05-10T15:30:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://speechresearch.github.io/index.html</loc>
-    <lastmod>2019-05-10T15:30:00+09:00</lastmod>
   </url>
   
   <url>
@@ -41,6 +35,11 @@
     <loc>https://speechresearch.github.io/tags/</loc>
     <lastmod>2019-05-10T15:30:00+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://speechresearch.github.io/unsuper/</loc>
+    <lastmod>2019-05-10T15:30:00+09:01</lastmod>
   </url>
   
 </urlset>

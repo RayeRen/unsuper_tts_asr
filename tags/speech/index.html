@@ -119,6 +119,97 @@ Your browser does not support the audio element.
         </section>
     </article>
 
+
+    <article itemscope itemtype="https://schema.org/BlogPosting">
+        <h1 class="entry-title" itemprop="headline">Audio Sample from &#34;Almost Unsupervised Text to Speech and Automatic Speech Recognition&#34;</h1>
+        
+        <section itemprop="entry-text">
+            
+
+<!-- - ArXiv: [arXiv:1710.07654](https://arxiv.org/abs/1710.07654) -->
+
+<h2 id="authors">Authors</h2>
+
+<p>Yi Ren*<sup>1</sup>, Xu Tan*<sup>2</sup>, Tao Qin<sup>2</sup>, Sheng Zhao<sup>3</sup>, Zhou Zhao<sup>1</sup>, Tie-Yan Liu<sup>2</sup></p>
+
+<p><small>* Equal contribution. <sup>1</sup> Zhejiang University, <sup>2</sup> Microsoft Research, <sup>3</sup> Microsoft STC Asia</small></p>
+
+<h2 id="abstract">Abstract</h2>
+
+<p>Text to speech (TTS) and automatic speech recognition (ASR) are two dual tasks in speech processing and both achieve impressive performance thanks to the recent advance in deep learning and large amount of aligned speech and text data. However, the lack of aligned data poses a major practical problem for TTS and ASR on low-resource languages. In this paper, by leveraging the dual nature of the two tasks, we propose an almost unsupervised learning method that only leverages few hundreds of paired data and extra unpaired data for TTS and ASR. Our method consists of the following components: (1) a denoising auto-encoder, which reconstructs speech and text sequences respectively to develop the capability of language modeling both in speech and text domain; (2) dual transformation, where the TTS model transforms the text $y$ into speech $\hat{x}$, and the ASR model leverages the transformed pair $(\hat{x},y)$ for training, and vice versa, to boost the accuracy of the two tasks; (3) bidirectional sequence modeling, which addresses error propagation especially in the long speech and text sequence when training with few paired data; (4) a unified model structure, which combines all the above components for TTS and ASR based on Transformer model. Our method achieves 99.84% in terms of word level intelligible rate and 2.68 MOS for TTS, and 11.7% PER for ASR on LJSpeech dataset, by leveraging only 200 paired speech and text data (about 20 minutes audio), together with extra unpaired speech and text data.</p>
+
+<h2 id="audio-samples">Audio Samples</h2>
+
+<p>the earliest book printed with movable types the gutenberg or &ldquo;forty-two line bible&rdquo; of about fourteen fifty-five</p>
+
+<p><audio controls="controls" >
+<source src="../audio/unsuper/1.wav" autoplay/>
+Your browser does not support the audio element.
+</audio></p>
+
+<p>has never been surpassed</p>
+
+<p><audio controls="controls" >
+<source src="../audio/unsuper/2.wav" autoplay/>
+Your browser does not support the audio element.
+</audio></p>
+
+<p>now as all books not primarily intended as picture-books consist principally of types composed to form letterpress</p>
+
+<p><audio controls="controls" >
+<source src="../audio/unsuper/3.wav" autoplay/>
+Your browser does not support the audio element.
+</audio></p>
+
+<p>especially as no more time is occupied or cost incurred in casting setting or printing beautiful letters</p>
+
+<p><audio controls="controls" >
+<source src="../audio/unsuper/4.wav" autoplay/>
+Your browser does not support the audio element.
+</audio></p>
+
+<p>than in the same operations with ugly ones</p>
+
+<p><audio controls="controls" >
+<source src="../audio/unsuper/5.wav" autoplay/>
+Your browser does not support the audio element.
+</audio></p>
+
+<p>the forms of printed letters should be beautiful and that their arrangement on the page should be reasonable and a help to the shapeliness of the letters themselves</p>
+
+<p><audio controls="controls" >
+<source src="../audio/unsuper/6.wav" autoplay/>
+Your browser does not support the audio element.
+</audio></p>
+
+<p>the first books were printed in black letter ie the letter which was a gothic development of the ancient roman character</p>
+
+<p><audio controls="controls" >
+<source src="../audio/unsuper/7.wav" autoplay/>
+Your browser does not support the audio element.
+</audio></p>
+
+<p>the earliest book printed with movable type the aforesaid gutenberg bible is printed in letters which are an exact imitation</p>
+
+<p><audio controls="controls" >
+<source src="../audio/unsuper/8.wav" autoplay/>
+Your browser does not support the audio element.
+</audio></p>
+
+<p>of the more formal ecclesiastical writing which obtained at that time this has since been called &ldquo;missal type&rdquo;</p>
+
+<p><audio controls="controls" >
+<source src="../audio/unsuper/9.wav" autoplay/>
+Your browser does not support the audio element.
+</audio></p>
+
+<h2 id="code">Code</h2>
+
+<p>To be released&hellip;.</p>
+
+        </section>
+    </article>
+
 </main>
 
 
