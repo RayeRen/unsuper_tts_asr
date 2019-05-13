@@ -17,9 +17,8 @@
       <pubDate>Fri, 10 May 2019 15:30:00 +0900</pubDate>
       
       <guid>https://speechresearch.github.io/unsuper_tts_asr/</guid>
-      <description>Authors Yi Ren*1, Xu Tan*2, Tao Qin2, Sheng Zhao3, Zhou Zhao1, Tie-Yan Liu2
-* Equal contribution. 1 Zhejiang University, 2 Microsoft Research, 3 Microsoft STC Asia
-Abstract Text to speech (TTS) and automatic speech recognition (ASR) are two dual tasks in speech processing and both achieve impressive performance thanks to the recent advance in deep learning and large amount of aligned speech and text data. However, the lack of aligned data poses a major practical problem for TTS and ASR on low-resource languages.</description>
+      <description>Authors  Yi Ren* (Zhejiang University) rayeren613@gmail.com Xu Tan* (Microsoft Research) xuta@microsoft.com Tao Qin (Microsoft Research Asia) taoqin@microsoft.com Sheng Zhao (Microsoft) Sheng.Zhao@microsoft.com Zhou Zhao (Zhejiang University) zhaozhou@zju.edu.cn Tie-Yan Liu (Microsoft) Tie-Yan.Liu@microsoft.com  * Equal contribution.
+Abstract Text to speech (TTS) and automatic speech recognition (ASR) are two dual tasks in speech processing and both achieve impressive performance thanks to the recent advance in deep learning and large amount of aligned speech and text data.</description>
     </item>
     
     <item>
@@ -28,9 +27,8 @@ Abstract Text to speech (TTS) and automatic speech recognition (ASR) are two dua
       <pubDate>Fri, 10 May 2019 15:30:00 +0901</pubDate>
       
       <guid>https://speechresearch.github.io/unsuper_tts_asr/unsuper/</guid>
-      <description>Authors Yi Ren*1, Xu Tan*2, Tao Qin2, Sheng Zhao3, Zhou Zhao1, Tie-Yan Liu2
-* Equal contribution. 1 Zhejiang University, 2 Microsoft Research, 3 Microsoft STC Asia
-Abstract Text to speech (TTS) and automatic speech recognition (ASR) are two dual tasks in speech processing and both achieve impressive performance thanks to the recent advance in deep learning and large amount of aligned speech and text data. However, the lack of aligned data poses a major practical problem for TTS and ASR on low-resource languages.</description>
+      <description>Authors  Yi Ren* (Zhejiang University) rayeren613@gmail.com Xu Tan* (Microsoft Research) xuta@microsoft.com Tao Qin (Microsoft Research Asia) taoqin@microsoft.com Sheng Zhao (Microsoft) Sheng.Zhao@microsoft.com Zhou Zhao (Zhejiang University) zhaozhou@zju.edu.cn Tie-Yan Liu (Microsoft) Tie-Yan.Liu@microsoft.com  * Equal contribution.
+Abstract Text to speech (TTS) and automatic speech recognition (ASR) are two dual tasks in speech processing and both achieve impressive performance thanks to the recent advance in deep learning and large amount of aligned speech and text data.</description>
     </item>
     
   </channel>
