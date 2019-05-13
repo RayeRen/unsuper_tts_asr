@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Speech synthesis on Almost Unsupervised Text to Speech and Automatic Speech Recognition</title>
-    <link>https://speechresearch.github.io/categories/speech-synthesis/</link>
+    <link>https://speechresearch.github.io/unsuper_tts_asr/categories/speech-synthesis/</link>
     <description>Recent content in Speech synthesis on Almost Unsupervised Text to Speech and Automatic Speech Recognition</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 10 May 2019 15:30:00 +0900</lastBuildDate>
     
-	<atom:link href="https://speechresearch.github.io/categories/speech-synthesis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://speechresearch.github.io/unsuper_tts_asr/categories/speech-synthesis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Audio Sample from &#34;Almost Unsupervised Text to Speech and Automatic Speech Recognition&#34;</title>
-      <link>https://speechresearch.github.io/</link>
+      <link>https://speechresearch.github.io/unsuper_tts_asr/</link>
       <pubDate>Fri, 10 May 2019 15:30:00 +0900</pubDate>
       
-      <guid>https://speechresearch.github.io/</guid>
+      <guid>https://speechresearch.github.io/unsuper_tts_asr/</guid>
       <description>Authors Yi Ren*1, Xu Tan*2, Tao Qin2, Sheng Zhao3, Zhou Zhao1, Tie-Yan Liu2
 * Equal contribution. 1 Zhejiang University, 2 Microsoft Research, 3 Microsoft STC Asia
 Abstract Text to speech (TTS) and automatic speech recognition (ASR) are two dual tasks in speech processing and both achieve impressive performance thanks to the recent advance in deep learning and large amount of aligned speech and text data. However, the lack of aligned data poses a major practical problem for TTS and ASR on low-resource languages.</description>
@@ -24,10 +24,10 @@ Abstract Text to speech (TTS) and automatic speech recognition (ASR) are two dua
     
     <item>
       <title>Audio Sample from &#34;Almost Unsupervised Text to Speech and Automatic Speech Recognition&#34;</title>
-      <link>https://speechresearch.github.io/unsuper/</link>
+      <link>https://speechresearch.github.io/unsuper_tts_asr/unsuper/</link>
       <pubDate>Fri, 10 May 2019 15:30:00 +0901</pubDate>
       
-      <guid>https://speechresearch.github.io/unsuper/</guid>
+      <guid>https://speechresearch.github.io/unsuper_tts_asr/unsuper/</guid>
       <description>Authors Yi Ren*1, Xu Tan*2, Tao Qin2, Sheng Zhao3, Zhou Zhao1, Tie-Yan Liu2
 * Equal contribution. 1 Zhejiang University, 2 Microsoft Research, 3 Microsoft STC Asia
 Abstract Text to speech (TTS) and automatic speech recognition (ASR) are two dual tasks in speech processing and both achieve impressive performance thanks to the recent advance in deep learning and large amount of aligned speech and text data. However, the lack of aligned data poses a major practical problem for TTS and ASR on low-resource languages.</description>
